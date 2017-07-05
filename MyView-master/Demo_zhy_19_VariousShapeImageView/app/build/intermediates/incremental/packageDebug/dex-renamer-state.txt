@@ -1,0 +1,4 @@
+#Wed Jul 05 23:27:01 CST 2017
+base.0=C\:\\Users\\zy\\Desktop\\MyView-master\\Demo_zhy_19_VariousShapeImageView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\zy\\Desktop\\MyView-master\\Demo_zhy_19_VariousShapeImageView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

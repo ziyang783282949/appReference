@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.demo.fuzhucheng">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/mylogo"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+        <activity
+            android:name=".MainActivity"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".meituanViewPager.MyViewPagerActivity" />
+        <activity android:name=".meituanViewPager2.MyViewPagerActivity2" />
+        <activity android:name=".colourfulFontOrNeonTextView.ColourfulFontOrNeonAcitivity" />
+        <activity android:name=".progressCircle.ProgressCircleActivity" />
+        <activity android:name=".someShapesImageview.ImageViewActivity" />
+        <activity android:name=".arcmenu.ArcMenuActivity" />
+        <activity android:name=".flowlayout.FlowlayoutActivity" />
+        <activity android:name=".rippleeffcet.RippleEffectActivity" />
+        <activity android:name=".pictureCarousel.PictureCarouselActivity" />
+        <activity
+            android:name=".recyclerview.RecyclerViewActivity"
+            android:theme="@style/MyTheme" />
+        <activity android:name=".recyclerview.StaggeredGridLayoutActivity" />
+        <activity android:name=".circlemenu.Main2Activity" />
+        <activity android:name=".circlemenu.CircleActivity" />
+        <activity android:name=".circlemenu.CCBActivity" />
+        <activity android:name=".mycirclemenu.MyCircleMenuActivity"
+            android:theme="@style/AppTheme"
+            ></activity>
+    </application>
+
+</manifest>
